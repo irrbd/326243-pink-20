@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ирина](https://up.htmlacademy.ru/adaptive/20/user/326243).
-* Наставник: `Неизвестно`.
+* Наставник: [Амина Омарова](https://htmlacademy.ru/profile/ami).
 
 ---
 
